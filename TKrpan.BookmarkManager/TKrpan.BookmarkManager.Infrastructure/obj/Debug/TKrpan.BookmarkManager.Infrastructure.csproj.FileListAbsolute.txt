@@ -1,0 +1,5 @@
+C:\Users\Slavitom\Desktop\C#\BookmarkManager\TKrpan.BookmarkManager\TKrpan.BookmarkManager.Infrastructure\bin\Debug\TKrpan.BookmarkManager.Infrastructure.dll
+C:\Users\Slavitom\Desktop\C#\BookmarkManager\TKrpan.BookmarkManager\TKrpan.BookmarkManager.Infrastructure\bin\Debug\TKrpan.BookmarkManager.Infrastructure.pdb
+C:\Users\Slavitom\Desktop\C#\BookmarkManager\TKrpan.BookmarkManager\TKrpan.BookmarkManager.Infrastructure\obj\Debug\TKrpan.BookmarkManager.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\Slavitom\Desktop\C#\BookmarkManager\TKrpan.BookmarkManager\TKrpan.BookmarkManager.Infrastructure\obj\Debug\TKrpan.BookmarkManager.Infrastructure.dll
+C:\Users\Slavitom\Desktop\C#\BookmarkManager\TKrpan.BookmarkManager\TKrpan.BookmarkManager.Infrastructure\obj\Debug\TKrpan.BookmarkManager.Infrastructure.pdb
