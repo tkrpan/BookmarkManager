@@ -28,18 +28,18 @@ namespace TKrpan.BookmarkManager.Infrastructure
         }
 
 
-        public void Add(string name, string url) {
+        public bool Add(string name, string url) {
 
             if (_urlValidator.IsUrlValid(url))
             {
                 _bookmarkList.Add(new Bookmark(name, url, DateTime.Now));
                 _bookmarkDataAccess.Save(_bookmarkList.ToArray());
+               
+                return true;
             }
             else
             {
-                Console.WriteLine("Uneseni url ne postoji!");
-                Console.WriteLine("Pritisnite neku tipku za nastavak...");
-                Console.ReadKey();
+                return false;
             }
         }
 
@@ -60,6 +60,11 @@ namespace TKrpan.BookmarkManager.Infrastructure
                     bookmark.Name, bookmark.Url, 
                     bookmark.Timestamp);
             }
+        }
+
+        public List<Bookmark> GetAllBookmarks()
+        {
+            return _bookmarkList;
         }
 
         public void Run(int index)

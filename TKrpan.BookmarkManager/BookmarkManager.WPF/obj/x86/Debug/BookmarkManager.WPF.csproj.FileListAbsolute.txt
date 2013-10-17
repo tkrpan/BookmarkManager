@@ -1,0 +1,16 @@
+D:\git\BookmarkManager\TKrpan.BookmarkManager\BookmarkManager.WPF\bin\Debug\BookmarkManager.WPF.exe
+D:\git\BookmarkManager\TKrpan.BookmarkManager\BookmarkManager.WPF\bin\Debug\BookmarkManager.WPF.pdb
+D:\git\BookmarkManager\TKrpan.BookmarkManager\BookmarkManager.WPF\obj\x86\Debug\MainWindow.baml
+D:\git\BookmarkManager\TKrpan.BookmarkManager\BookmarkManager.WPF\obj\x86\Debug\MainWindow.g.cs
+D:\git\BookmarkManager\TKrpan.BookmarkManager\BookmarkManager.WPF\obj\x86\Debug\App.g.cs
+D:\git\BookmarkManager\TKrpan.BookmarkManager\BookmarkManager.WPF\obj\x86\Debug\BookmarkManager.WPF_MarkupCompile.cache
+D:\git\BookmarkManager\TKrpan.BookmarkManager\BookmarkManager.WPF\obj\x86\Debug\BookmarkManager.WPF.g.resources
+D:\git\BookmarkManager\TKrpan.BookmarkManager\BookmarkManager.WPF\obj\x86\Debug\BookmarkManager.WPF.Properties.Resources.resources
+D:\git\BookmarkManager\TKrpan.BookmarkManager\BookmarkManager.WPF\obj\x86\Debug\BookmarkManager.WPF.csproj.GenerateResource.Cache
+D:\git\BookmarkManager\TKrpan.BookmarkManager\BookmarkManager.WPF\obj\x86\Debug\BookmarkManager.WPF.exe
+D:\git\BookmarkManager\TKrpan.BookmarkManager\BookmarkManager.WPF\obj\x86\Debug\BookmarkManager.WPF.pdb
+D:\git\BookmarkManager\TKrpan.BookmarkManager\BookmarkManager.WPF\bin\Debug\TKrpan.BookmarkManager.exe
+D:\git\BookmarkManager\TKrpan.BookmarkManager\BookmarkManager.WPF\bin\Debug\TKrpan.BookmarkManager.Infrastructure.dll
+D:\git\BookmarkManager\TKrpan.BookmarkManager\BookmarkManager.WPF\bin\Debug\TKrpan.BookmarkManager.Infrastructure.pdb
+D:\git\BookmarkManager\TKrpan.BookmarkManager\BookmarkManager.WPF\bin\Debug\TKrpan.BookmarkManager.pdb
+D:\git\BookmarkManager\TKrpan.BookmarkManager\BookmarkManager.WPF\obj\x86\Debug\BookmarkManager.WPF.csprojResolveAssemblyReference.cache

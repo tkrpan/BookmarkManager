@@ -5,3 +5,10 @@ C:\Users\Slavitom\Desktop\C#\BookmarkManager\TKrpan.BookmarkManager\TKrpan.Bookm
 C:\Users\Slavitom\Desktop\C#\BookmarkManager\TKrpan.BookmarkManager\TKrpan.BookmarkManager\obj\x86\Debug\TKrpan.BookmarkManager.csprojResolveAssemblyReference.cache
 C:\Users\Slavitom\Desktop\C#\BookmarkManager\TKrpan.BookmarkManager\TKrpan.BookmarkManager\obj\x86\Debug\TKrpan.BookmarkManager.exe
 C:\Users\Slavitom\Desktop\C#\BookmarkManager\TKrpan.BookmarkManager\TKrpan.BookmarkManager\obj\x86\Debug\TKrpan.BookmarkManager.pdb
+D:\git\BookmarkManager\TKrpan.BookmarkManager\TKrpan.BookmarkManager\obj\x86\Debug\TKrpan.BookmarkManager.exe
+D:\git\BookmarkManager\TKrpan.BookmarkManager\TKrpan.BookmarkManager\obj\x86\Debug\TKrpan.BookmarkManager.pdb
+D:\git\BookmarkManager\TKrpan.BookmarkManager\TKrpan.BookmarkManager\bin\Debug\TKrpan.BookmarkManager.exe
+D:\git\BookmarkManager\TKrpan.BookmarkManager\TKrpan.BookmarkManager\bin\Debug\TKrpan.BookmarkManager.pdb
+D:\git\BookmarkManager\TKrpan.BookmarkManager\TKrpan.BookmarkManager\bin\Debug\TKrpan.BookmarkManager.Infrastructure.dll
+D:\git\BookmarkManager\TKrpan.BookmarkManager\TKrpan.BookmarkManager\bin\Debug\TKrpan.BookmarkManager.Infrastructure.pdb
+D:\git\BookmarkManager\TKrpan.BookmarkManager\TKrpan.BookmarkManager\obj\x86\Debug\TKrpan.BookmarkManager.csprojResolveAssemblyReference.cache
